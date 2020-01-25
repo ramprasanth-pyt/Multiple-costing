@@ -1,0 +1,10 @@
+newmtl _Eiffel_Tower_v1_max2010_it1:_Eiffel_Tower_v2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.JPG
+map_Ka 10067_Eiffel_Tower_v1_diffuse.JPG
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
